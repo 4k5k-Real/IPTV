@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium
+http://190.128.214.97:64333/play/a02i/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed ARG/PY)
+http://181.232.188.21:8282/play/a05e/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU)
+http://45.186.254.75:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU) OpciÃ³n 1
+http://192.141.98.91:8000/play/a1zx/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU) OpciÃ³n 2
+http://192.141.98.91:8000/play/a1ph/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU) OpciÃ³n 3
+http://177.53.152.117:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed CL)
+http://45.4.3.177:9999/play/a0gp
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU) OpciÃ³n 4
+http://38.224.231.176:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed PERU) OpciÃ³n 5
+http://181.66.253.160:8000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed ARG)
+http://200.85.51.158:64333/play/a02i
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium (Feed CL) OpciÃ³n 1
+http://170.247.204.9:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed COL)
+http://186.33.57.100:8000/play/a1ve/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed PERU)
+http://181.66.249.246:8000/play/a0fl/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed CL)
+http://45.181.120.65:9087/play/a0kk/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed CL) OpciÃ³n 1
+http://45.191.100.217:9800/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed CL) OpciÃ³n 2
+http://181.78.88.113:9800/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed CL) OpciÃ³n 3
+http://45.181.120.147:9800/play/111/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed PERU) OpciÃ³n 1
+http://190.119.112.28:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed ECU)
+http://205.235.6.29:8000/play/a0wl/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD (Feed PERU) OpciÃ³n 2
+http://177.53.153.21:8000/play/a16t/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",Espn Premium (Feed PERU) OpciÃ³n 6
+http://38.224.231.176:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",72  ESPN Premium HD
+http://201.240.104.137:8000/play/espnpre/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN PREMIUM OpciÃ³n 1
+http://38.52.200.209:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium OpciÃ³n 2
+http://177.53.152.117:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium OpciÃ³n 3
+http://200.85.51.158:64333/play/a02i/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD
+http://152.231.29.139:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD OpciÃ³n 1
+http://200.59.191.177:8000/play/a0ko/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD OpciÃ³n 2
+http://38.188.48.83:8000/play/a0ko/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD OpciÃ³n 3
+http://190.119.168.226:4000/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD OpciÃ³n 4
+http://190.119.143.218:8000/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium HD OpciÃ³n 5
+http://38.7.195.44:8000/play/a04g
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium OpciÃ³n 4
+http://170.247.204.9:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium OpciÃ³n 5
+http://45.191.100.217:9800/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="⚽ ESPN",ESPN Premium OpciÃ³n 6
+http://181.78.88.113:9800/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.lat" group-title="⚽ ESPN",ESPN Premium HD SUR (Feed LATAM)
+http://181.78.61.202:8000/play/a01v
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed ARG)
+http://200.85.51.158:64333/play/a03c
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed ARG) OpciÃ³n 1
+http://190.128.214.97:64333/play/a03c/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed PERU)
+http://192.141.98.91:8000/play/a1zw/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD
+http://170.247.204.9:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium
+http://170.247.204.9:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 1
+http://45.191.100.217:9800/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 2
+http://45.181.120.147:9800/play/110/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium OpciÃ³n 1
+http://45.181.120.147:9800/play/a068/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 3
+http://181.78.88.113:9800/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed PY)
+http://200.85.51.158:64333/play/a03c/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed CL)
+http://45.181.120.65:9087/play/057
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed CL) OpciÃ³n 1
+http://45.181.120.65:9087/play/057/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium (Feed PERU) OpciÃ³n 1
+http://161.132.68.23:8000/play/a01z
+#EXTINF:-1 group-title="⚽ TNT SPORTS",3110 TNT Sports Premium HD
+http://205.235.6.29:8000/play/a104/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 4
+http://190.60.60.114:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium OpciÃ³n 2
+http://177.53.152.117:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium OpciÃ³n 3
+http://45.4.3.177:9999/play/a09j
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium OpciÃ³n 4
+http://190.119.112.28:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 5
+http://38.7.195.44:8000/play/a0e7
+#EXTINF:-1 group-title="⚽ TNT SPORTS",TNT Sports Premium HD OpciÃ³n 6
+http://181.205.130.194:4000/play/a0e4
